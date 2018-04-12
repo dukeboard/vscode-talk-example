@@ -37,7 +37,7 @@ Simply use the HR tag as a slide separator
 ---
 # Include and position images 
 
-![](images/eclipse.jpg =600x) <!--{style="position:absolute;right:200px;top:200px"}-->
+![](images/eclipse.jpg) <!--{style="position:absolute;right:200px;top:200px"}-->
 
 ---
 # Highlight your code
