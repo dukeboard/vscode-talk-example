@@ -155,4 +155,4 @@ Finally, you can also use font-awesome icons :fa-cog: and tune it **:fa-cog:** <
 ---
 <!--{.darkSlide}-->
 
-<h2 class="shout">See you <b>:-)</b></h2> 
+<h2 class="shout">Thank you <b>:-)</b></h2> 
